@@ -10,7 +10,7 @@ function Settings() {
       <h1 className='text-3xl font-semibold'>Settings</h1>
       <p className='mt-2 text-sm text-muted-foreground'>
         Page en cours de construction.
-        {/* aiza iz zany */}
+        {/* lasa aiza iz zany e*/}
       </p>
     </div>
   )

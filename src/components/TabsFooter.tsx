@@ -1,4 +1,3 @@
-import * as React from 'react'
 import { AnimatePresence, motion } from 'framer-motion'
 import type { LucideIcon } from 'lucide-react'
 import { useOnClickOutside } from 'usehooks-ts'
